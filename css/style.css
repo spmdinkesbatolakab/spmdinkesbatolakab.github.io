@@ -1,0 +1,7 @@
+/* Set a background image by replacing the URL below */
+body {
+    background-image: url('img/background.jpg') no-repeat center center fixed;
+    
+    background-size: cover;
+  
+  }
