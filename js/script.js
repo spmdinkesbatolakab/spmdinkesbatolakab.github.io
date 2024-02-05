@@ -12,7 +12,7 @@ $(document).ready(function(){
       
     }else
       if (username == "6304spmbatola" && password == "spmbatola6304"){
-        window.open("https://docs.google.com/spreadsheets/d/1s9K-tlkM1Xc0xG8PFh2nBIG_jreCZY_e/edit?usp=sharing&ouid=117165300134494543265&rtpof=true&sd=true", "_blank");
+        window.open("https://spmdinkesbatolakab.github.io/", "_blank");
         $("#inputUsername").val("");
         $("#inputPassword").val("");
         $("#modalLogin").modal('hide');
